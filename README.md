@@ -1,2 +1,2 @@
 # test-control-version
-dededede
+develop develop 1.0
